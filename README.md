@@ -159,3 +159,7 @@ The test suite covers eight categories:
 ## Related Projects
 
 Part of a 5-project security research portfolio: [Argus](https://github.com/FardinIqbal/argus) (passive network sniffer), [tcpscan](https://github.com/FardinIqbal/tcpscan) (TCP scanner), [NetSec Toolkit](https://github.com/FardinIqbal/netsec-toolkit) (certificate analyzer), [x86 Exploit Lab](https://github.com/FardinIqbal/x86-exploit-lab) (buffer overflow research).
+
+## License
+
+[MIT](LICENSE)
