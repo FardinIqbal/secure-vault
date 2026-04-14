@@ -1,0 +1,9 @@
+[project]
+name = "secure-vault"
+version = "1.0.0"
+description = "Authenticated encryption password manager built from cryptographic primitives"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = [
+    "pycryptodome",
+]
